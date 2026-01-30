@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Video Marketing Studio</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+  <meta name="description" content="AI video marketing za kompanije – AI reklame, AI promoteri, Reels i Stories bez snimanja i glumaca.">
+
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; color:#111; line-height:1.6;}
+    header {padding:80px 20px; text-align:center; background:#f5f5f5;}
+    section {padding:60px 20px; max-width:1000px; margin:auto;}
+    h1, h2, h3 {margin-bottom:16px;}
+    .cta {display:inline-block; margin-top:20px; padding:14px 28px; background:#000; color:#fff; text-decoration:none; border-radius:6px;}
+    .grid {display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:20px;}
+    .card {padding:24px; border:1px solid #ddd; border-radius:8px;}
+    footer {padding:40px 20px; text-align:center; background:#111; color:#fff;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>AI video marketing za kompanije</h1>
+  <p>AI reklame, AI promoteri, Reels i Stories — bez snimanja i bez glumaca.</p>
+  <a href="#kontakt" class="cta">Kontaktirajte nas</a>
+</header>
+
+<section>
+  <h2>Šta radimo</h2>
+  <p>Kreiramo profesionalni AI video sadržaj koji kompanijama omogućava da se predstave jasno, moderno i efikasno. Sve poruke su u potpunosti prilagođene vašem brendu.</p>
+</section>
+
+<section>
+  <h2>Usluge</h2>
+  <div class="grid">
+    <div class="card"><h3>AI video reklame</h3><p>Kratke i jasne video poruke za digitalni marketing.</p></div>
+    <div class="card"><h3>AI promoteri</h3><p>Digitalno lice koje predstavlja vaš brend.</p></div>
+    <div class="card"><h3>Reels & Stories</h3><p>Sadržaj optimizovan za Instagram i društvene mreže.</p></div>
+    <div class="card"><h3>Kampanje</h3><p>Serije AI videa za promocije i lansiranja.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Kako funkcioniše</h2>
+  <div class="grid">
+    <div class="card"><strong>1.</strong> Vi šaljete tekst i smernice</div>
+    <div class="card"><strong>2.</strong> Kreiramo AI video</div>
+    <div class="card"><strong>3.</strong> Isporuka za 24–48h</div>
+  </div>
+</section>
+
+<section>
+  <h2>Za koga je</h2>
+  <p>Kompanije, brendovi, marketing timovi i agencije koje žele moderan video nastup bez komplikacija.</p>
+</section>
+
+<section id="kontakt">
+  <h2>Kontakt</h2>
+  <p>Zainteresovani ste za AI video prezentaciju vašeg brenda?</p>
+  <p>Email: <strong>imeprofila@gmail.com</strong></p>
+  <p>Instagram: <strong>@imeprofila</strong></p>
+</section>
+<style>
+  html {scroll-behavior: smooth;}
+</style>
+
+<footer>
+  <p>© 2026 AI Video Marketing Studio</p>
+</footer>
+
+</body>
+</html>
